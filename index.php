@@ -1,76 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>WGS - Wira Gulfindo Sarana</title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Construction Company Website Template" name="keywords">
-        <meta content="Construction Company Website Template" name="description">
 
-        <!-- Favicon -->
-        <link href="img/favicon.ico" rel="icon">
+<head>
+    <meta charset="utf-8">
+    <title>WGS - Wira Gulfindo Sarana</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Construction Company Website Template" name="keywords">
+    <meta content="Construction Company Website Template" name="description">
 
-        <!-- Google Font -->
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
 
-        <!-- CSS Libraries -->
-        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet"> 
-        <link href="lib/animate/animate.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-        <link href="lib/slick/slick.css" rel="stylesheet">
-        <link href="lib/slick/slick-theme.css" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-        <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
-    </head>
+    <!-- CSS Libraries -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="lib/slick/slick.css" rel="stylesheet">
+    <link href="lib/slick/slick-theme.css" rel="stylesheet">
 
-    <body>
-        <div class="wrapper">
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
 
-            <!-- Top Bar Start -->
-            <?php include './menu/TopBar.php'; ?>
-            <!-- Top Bar End -->
+<body>
+    <div class="wrapper">
 
-            <!-- Nav Bar Start -->
-            <?php include './menu/NavBar.php'; ?>
-            <!-- Nav Bar End -->
+        <!-- Top Bar Start -->
+        <?php include './menu/TopBar.php'; ?>
+        <!-- Top Bar End -->
+
+        <!-- Nav Bar Start -->
+        <div class="nav-bar">
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                    <a href="#" class="navbar-brand" style="color: #DA1107">MENU</a>
+                    <button style="background-color: #DA1107; border-color: #000000" type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                        <span style="color: #FFFFFF" class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                        <div class="navbar-nav mr-auto">
+                            <a href="index.php" class="nav-item nav-link active">Home</a>
+                            <a href="about.php" class="nav-item nav-link">About</a>
+                            <a href="service.php" class="nav-item nav-link">Service</a>
+                            <a href="team.php" class="nav-item nav-link">Team</a>
+                            <a href="portfolio.php" class="nav-item nav-link">Project</a>
+                            <div class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
+                                <div class="dropdown-menu">
+                                    <a href="blog.php" class="dropdown-item">Blog Page</a>
+                                    <a href="single.php" class="dropdown-item">Single Page</a>
+                                </div>
+                            </div>
+                            <a href="contact.php" class="nav-item nav-link">Contact</a>
+                        </div>
+                        <!-- <div class="ml-auto">
+                                <a class="btn" href="https://freewebsitecode.com">Download All Template</a>
+                            </div> -->
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- Nav Bar End -->
 
 
-            <!-- Carousel Start -->
-            <?php include './template/Carousel.php'; ?>
-            <!-- Carousel End -->
+        <!-- Carousel Start -->
+        <?php include './template/Carousel.php'; ?>
+        <!-- Carousel End -->
 
 
-            <!-- Feature Start-->
-            <?php include './template/FeatureStart.php'; ?>
-            <!-- Feature End-->
+        <!-- Feature Start-->
+        <?php include './template/FeatureStart.php'; ?>
+        <!-- Feature End-->
 
 
-            <!-- About Start -->
-            <?php include './template/About.php'; ?>
-            <!-- About End -->
+        <!-- About Start -->
+        <?php include './template/About.php'; ?>
+        <!-- About End -->
 
 
-            <!-- Fact Start -->
-            <?php include './template/Fact.php'; ?>
-            <!-- Fact End -->
+        <!-- Fact Start -->
+        <?php include './template/Fact.php'; ?>
+        <!-- Fact End -->
 
 
-            <!-- Service Start -->
-            <?php include './template/Service.php'; ?>
-            <!-- Service End -->
+        <!-- Service Start -->
+        <?php include './template/Service.php'; ?>
+        <!-- Service End -->
 
 
-            <!-- Video Start -->
-            <?php include './template/Video.php'; ?>
-            <!-- Video End -->
+        <!-- Video Start -->
+        <?php include './template/Video.php'; ?>
+        <!-- Video End -->
 
 
-            <!-- Team Start -->
-            <!-- <div class="team">
+        <!-- Team Start -->
+        <!-- <div class="team">
                 <div class="container">
                     <div class="section-header text-center">
                         <p>Our Team</p>
@@ -148,21 +179,21 @@
                     </div>
                 </div>
             </div> -->
-            <!-- Team End -->
-            
-
-            <!-- FAQs Start -->
-            <?php include './template/FAQs.php'; ?>
-            <!-- FAQs End -->
+        <!-- Team End -->
 
 
-            <!-- Testimonial Start -->
-            <?php include './template/Testimonial.php'; ?>
-            <!-- Testimonial End -->
+        <!-- FAQs Start -->
+        <?php include './template/FAQs.php'; ?>
+        <!-- FAQs End -->
 
 
-            <!-- Blog Start -->
-            <!-- <div class="blog">
+        <!-- Testimonial Start -->
+        <?php include './template/Testimonial.php'; ?>
+        <!-- Testimonial End -->
+
+
+        <!-- Blog Start -->
+        <!-- <div class="blog">
                 <div class="container">
                     <div class="section-header text-center">
                         <p>Latest Blog</p>
@@ -232,29 +263,30 @@
                     </div>
                 </div>
             </div> -->
-            <!-- Blog End -->
+        <!-- Blog End -->
 
 
-            <!-- Footer Start -->
-            <?php include './menu/Footer.php'; ?>
-            <!-- Footer End -->
+        <!-- Footer Start -->
+        <?php include './menu/Footer.php'; ?>
+        <!-- Footer End -->
 
-            <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-        </div>
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    </div>
 
-        <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-        <script src="lib/isotope/isotope.pkgd.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/slick/slick.min.js"></script>
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/slick/slick.min.js"></script>
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
-    </body>
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
 </html>

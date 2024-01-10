@@ -42,11 +42,13 @@ a:focus {
     background: #ffffff;
 }
 
+/* EDIT */
 .back-to-top {
+    border-radius: 50%;
     position: fixed;
     display: none;
-    background: #fdbe33;
-    color: #121518;
+    background: #DA1107;
+    color: #FFFFFF;
     width: 44px;
     height: 44px;
     text-align: center;
@@ -381,12 +383,13 @@ a:focus {
 /*******************************/
 /******* Page Header CSS *******/
 /*******************************/
+/* EDIT */
 .page-header {
     position: relative;
     margin-bottom: 45px;
     padding: 90px 0;
     text-align: center;
-    background: #fdbe33;
+    background: #DA1107;
 }
 
 .page-header h2 {
@@ -412,11 +415,11 @@ a:focus {
     position: relative;
     padding: 0 12px;
     font-size: 22px;
-    color: #030f27;
+    color: #FFFFFF;
 }
 
 .page-header a:hover {
-    color: #ffffff;
+    color: #000000;
 }
 
 .page-header a::after {
@@ -546,20 +549,20 @@ a:focus {
     height: 79px;
     top: -18px;
     left: -9px;
-    background: #030f27;
+    background: #DA1107;
     border-radius: 60px;
     z-index: 2;
 }
 
 /* EDIT */
 .feature .col-md-12:nth-child(2n) .feature-icon::after {
-    background: #000000;
+    background: #DA1107;
 }
 
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #fdbe33;
+    color: #FFFFFF;
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -589,7 +592,7 @@ a:focus {
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {
-    color: #fdbe33;
+    color: #FFFFFF;
 }
 
 
@@ -621,6 +624,7 @@ a:focus {
     font-size: 16px;
 }
 
+/* EDIT */
 .about .about-text a.btn {
     position: relative;
     margin-top: 15px;
@@ -628,12 +632,13 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #030f27;
-    border-radius: 0;
-    background: #fdbe33;
+    color: #FFFFFF;
+    border-radius: 10;
+    background: #DA1107;
     transition: .3s;
 }
 
+/* EDIT */
 .about .about-text a.btn:hover {
     color: #fdbe33;
     background: #030f27;
@@ -670,11 +675,12 @@ a:focus {
     justify-content: center;
 }
 
+/* EDIT */
 .fact .fact-icon [class^="flaticon-"]::before {
     margin: 0;
     font-size: 60px;
     line-height: 60px;
-    background-image: linear-gradient(#ffffff, #fdbe33);
+    background-image: linear-gradient(#DA1107, #FFFFFF);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -706,11 +712,13 @@ a:focus {
     background: #030f27;
 }
 
+/* EDIT */
 .fact .fact-right {
-    color: #030f27;
-    background: #fdbe33;
+    color: #030F27;
+    background: #DA1107;
 }
 
+/* EDIT */
 .fact .fact-left h2 {
     color: #fdbe33;
 }
@@ -765,29 +773,32 @@ a:focus {
     color: #ffffff;
 }
 
+/* EDIT */
 .service .service-text {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #030f27;
+    background: #DA1107;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
+/* EDIT */
 .service .service-text h3 {
     margin: 0;
     padding: 0 15px 0 25px;
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #FFFFFF;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
+/* EDIT */
 .service .service-item a.btn {
     width: 60px;
     height: 60px;
@@ -798,8 +809,8 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #030f27;
-    background: #fdbe33;
+    color: #FFFFFF;
+    background: #000000;
     border-radius: 0;
     transition: .3s;
 }
@@ -840,6 +851,7 @@ a:focus {
     padding: 18px 20px 18px 28px;
 }
 
+/* EDIT */
 .video .btn-play:before {
     content: "";
     position: absolute;
@@ -850,7 +862,7 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fdbe33;
+    background: #DA1107;
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
 }
@@ -865,7 +877,7 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fdbe33;
+    background: #DA1107;
     border-radius: 50%;
     transition: all 200ms;
 }
@@ -882,13 +894,14 @@ a:focus {
     height: auto;
 }
 
+/* EDIT */
 .video .btn-play span {
     display: block;
     position: relative;
     z-index: 3;
     width: 0;
     height: 0;
-    border-left: 32px solid #030f27;
+    border-left: 32px solid #FFFFFF;
     border-top: 22px solid transparent;
     border-bottom: 22px solid transparent;
 }
@@ -1042,6 +1055,7 @@ a:focus {
     position: relative;
 }
 
+/* EDIT */
 .faqs .row::after {
     position: absolute;
     content: "";
@@ -1049,7 +1063,7 @@ a:focus {
     height: 100%;
     top: 0;
     left: calc(50% - .5px);
-    background: #fdbe33;
+    background: #DA1107;
 }
 
 .faqs #accordion-1 {
@@ -1106,11 +1120,12 @@ a:focus {
     background: #fdbe33;
 }
 
+/* EDIT */
 .faqs .card-header [data-toggle="collapse"]:after {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #fdbe33;
+    color: #DA1107;
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1195,6 +1210,7 @@ a:focus {
     padding-top: 50px;
 }
 
+/* EDIT */
 .testimonial .testimonial-slider::before {
     position: absolute;
     content: "";
@@ -1202,11 +1218,12 @@ a:focus {
     height: 50px;
     top: 0;
     left: calc(50% - 30px);
-    background: url(../img/quote.png) top center no-repeat;
+    /* background: url(../img/quote.png) top center no-repeat; */
 }
 
+/* EDIT */
 .testimonial .testimonial-slider h3 {
-    color: #fdbe33;
+    color: #DA1107;
     font-size: 22px;
     font-weight: 700;
 }
@@ -1494,6 +1511,7 @@ a:focus {
     display: flex;
 }
 
+/* EDIT */
 .single .related-slider .owl-nav .owl-prev,
 .single .related-slider .owl-nav .owl-next {
     margin-left: 15px;
@@ -1502,10 +1520,11 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #030f27;
-    background: #fdbe33;
+    color: #FFFFFF;
+    background: #DA1107;
     font-size: 16px;
     transition: .3s;
+    border-radius: 50%;
 }
 
 .single .related-slider .owl-nav .owl-prev:hover,
@@ -1943,10 +1962,15 @@ a:focus {
 
 .contact .col-md-6:first-child {
     background: #030f27;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
+/* EDIT */
 .contact .col-md-6:last-child {
-    background: #fdbe33;
+    background: #DA1107;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .contact .contact-info {
@@ -1965,9 +1989,10 @@ a:focus {
     border: 1px solid rgba(256, 256, 256, .2);
 }
 
+/* EDIT */
 .contact .contact-item [class^="flaticon-"]::before {
     margin: 0;
-    color: #fdbe33;
+    color: #DA1107;
     font-size: 40px;
 }
 
@@ -1977,8 +2002,9 @@ a:focus {
     padding-left: 20px;
 }
 
+/* EDIT */
 .contact .contact-text h2 {
-    color: #fdbe33;
+    color: #DA1107;
     font-size: 20px;
     font-weight: 600;
 }
@@ -2034,14 +2060,15 @@ a:focus {
   color: #ffffff;
 }
 
+/* EDIT */
 .contact .contact-form .btn {
     padding: 16px 30px;
     font-size: 16px;
     font-weight: 600;
-    color: #fdbe33;
+    color: #FFFFFF;
     background: #030f27;
     border: none;
-    border-radius: 0;
+    border-radius: 10;
     transition: .3s;
 }
 
@@ -2182,9 +2209,9 @@ a:focus {
     background: #fdbe33;
 }
 
+/* EDIT */
 .footer .footer-menu .f-menu {
     position: relative;
-    padding: 15px 0;
     font-size: 0;
     text-align: center;
     border-top: 1px solid rgba(256, 256, 256, .1);

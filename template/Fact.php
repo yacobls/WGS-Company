@@ -8,8 +8,8 @@
                             <i class="flaticon-worker"></i>
                         </div>
                         <div class="fact-text">
-                            <h2 data-toggle="counter-up">109</h2>
-                            <p>Expert Workers</p>
+                            <h2 data-toggle="counter-up" style="color: #FFFFFF">109</h2>
+                            <p style="color: #FFFFFF">Expert Workers</p>
                         </div>
                     </div>
                     <div class="col-6">
@@ -17,8 +17,8 @@
                             <i class="flaticon-building"></i>
                         </div>
                         <div class="fact-text">
-                            <h2 data-toggle="counter-up">485</h2>
-                            <p>Happy Clients</p>
+                            <h2 data-toggle="counter-up" style="color: #FFFFFF">485</h2>
+                            <p style="color: #FFFFFF">Happy Clients</p>
                         </div>
                     </div>
                 </div>

@@ -23,7 +23,7 @@
                     <a href="">House Renovation</a>
                     <a href="">Architecture Design</a>
                     <a href="">Interior Design</a>
-                    <a href="">Painting</a>
+                    <a href="">Fixing & Support</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
@@ -31,7 +31,7 @@
                     <h2>Useful Pages</h2>
                     <a href="">About Us</a>
                     <a href="">Contact Us</a>
-                    <a href="">Our Team</a>
+                    <!-- <a href="">Our Team</a> -->
                     <a href="">Projects</a>
                     <a href="">Testimonial</a>
                 </div>
@@ -42,10 +42,10 @@
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
                     </p>
-                    <div class="form">
+                    <!-- <div class="form">
                         <input class="form-control" placeholder="Email here">
                         <button class="btn">Submit</button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
 
 
             <div class="col-md-6">
-                <p>Designed By <a href="https://freewebsitecode.com">Free Website Code</a></p>
+                <p>Designed By <a href="#" style="color: #FFFFFF;">Free Website Code</a></p>
             </div>
         </div>
     </div>
