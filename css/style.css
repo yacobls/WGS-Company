@@ -1819,26 +1819,29 @@ a:focus {
     text-align: center;
 }
 
+/* EDIT */
 .portfolio #portfolio-flters li,
 .portfolio .load-more .btn {
     cursor: pointer;
     display: inline-block;
     margin: 5px;
     padding: 8px 15px;
-    color: #030f27;
+    color: #FFFFFF;
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    border-radius: 0;
-    background: #fdbe33;
+    border-radius: 10px;
+    background: #DA1107;
     border: none;
     transition: .3s;
 }
 
+/* EDIT */
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     background: #030f27;
     color: #fdbe33;
+    border-radius: 50%;
 }
 
 .portfolio .load-more {
@@ -1901,23 +1904,25 @@ a:focus {
     color: #ffffff;
 }
 
+/* EDIT */
 .portfolio .portfolio-text {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #030f27;
+    background: #DA1107;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
+/* EDIT */
 .portfolio .portfolio-text h3 {
     margin: 0;
     padding: 0 15px 0 25px;
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: #FFFFFF;
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
@@ -1940,9 +1945,10 @@ a:focus {
     transition: .3s;
 }
 
+/* EDIT */
 .portfolio .portfolio-warp:hover a.btn {
     color: #ffffff;
-    background: #fdbe33;
+    background: #000000;
 }
 
 
@@ -2089,7 +2095,7 @@ a:focus {
 /*******************************/
 .footer {
     position: relative;
-    margin-top: 45px;
+    /* margin-top: 45px; */
     padding-top: 90px;
     background: #ffffff;
     color: #DA1107;
@@ -2160,6 +2166,7 @@ a:focus {
     border: 1px solid rgba(256, 256, 256, .3);
     border-radius: 60px;
     transition: .3s;
+    background-color: #DA1107;
 }
 
 .footer .footer-social a i {

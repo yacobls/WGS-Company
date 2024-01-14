@@ -8,11 +8,11 @@
                     <p><i class="fa fa-phone-alt"></i>0811-146-168</p>
                     <p><i class="fa fa-envelope"></i>indowgs@gmail.com</p>
                     <div class="footer-social">
-                        <a href="https://freewebsitecode.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://facebook.com/freewebsitecode"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://freewebsitecode.com/"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="https://freewebsitecode.com/"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.youtube.com/channel/UC9HlQRmKgG3jeVD_fBxj1Pw/videos"><i class="fab fa-youtube"></i></a>
+                        <!-- <a href="https://freewebsitecode.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://facebook.com/freewebsitecode"><i class="fab fa-facebook-f"></i></a> -->
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@
             </div>
         </div>
     </div>
-    <div class="container footer-menu">
+    <!-- <div class="container footer-menu">
         <div class="f-menu">
             <a href="">Terms of use</a>
             <a href="">Privacy policy</a>
@@ -58,11 +58,11 @@
             <a href="">Help</a>
             <a href="">FQAs</a>
         </div>
-    </div>
+    </div> -->
     <div class="container copyright">
         <div class="row">
             <div class="col-md-6">
-                <p>&copy; <a href="https://freewebsitecode.com">Your Site Name</a>, All Right Reserved.</p>
+                <p style="color: #000000">Designed By<a href="#" style="color: #DA1107"> Wira Gulfindo Sarana | 2024</a> All Right Reserved.</p>
             </div>
 
 

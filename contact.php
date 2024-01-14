@@ -33,39 +33,40 @@
             <?php include './menu/TopBar.php'; ?>
             <!-- Top Bar End -->
 
-            <!-- Nav Bar Start -->
-            <div class="nav-bar">
-                <div class="container-fluid">
-                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                        <a href="#" class="navbar-brand">MENU</a>
-                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
+        <!-- Nav Bar Start -->
+        <div class="nav-bar">
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                    <a href="#" class="navbar-brand">MENU</a>
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                            <div class="navbar-nav mr-auto">
-                                <a href="index.php" class="nav-item nav-link">Home</a>
-                                <a href="about.php" class="nav-item nav-link">About</a>
-                                <a href="service.php" class="nav-item nav-link">Service</a>
-                                <!-- <a href="team.php" class="nav-item nav-link">Team</a> -->
-                                <a href="portfolio.php" class="nav-item nav-link">Project</a>
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                                    <div class="dropdown-menu">
-                                        <a href="blog.php" class="dropdown-item">Blog Page</a>
-                                        <a href="single.php" class="dropdown-item">Single Page</a>
-                                    </div>
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                        <div class="navbar-nav mr-auto">
+                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="about.php" class="nav-item nav-link">About</a>
+                            <!-- <a href="service.php" class="nav-item nav-link">Service</a> -->
+                            <!-- <a href="team.php" class="nav-item nav-link">Team</a> -->
+                            <a href="products/mixer.php" class="nav-item nav-link">Products</a>
+                            <a href="projects.php" class="nav-item nav-link">Projects</a>
+                            <!-- <div class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
+                                <div class="dropdown-menu">
+                                    <a href="blog.php" class="dropdown-item">Blog Page</a>
+                                    <a href="single.php" class="dropdown-item">Single Page</a>
                                 </div>
-                                <a href="contact.php" class="nav-item nav-link active">Contact</a>
-                            </div>
-                            <!-- <div class="ml-auto">
-                                <a class="btn" href="https://freewebsitecode.com">Download All Template</a>
                             </div> -->
+                            <a href="contact.php" class="nav-item nav-link active">Contact</a>
                         </div>
-                    </nav>
-                </div>
+                        <!-- <div class="ml-auto">
+                            <a class="btn" href="https://freewebsitecode.com">Download All Template</a>
+                        </div> -->
+                    </div>
+                </nav>
             </div>
-            <!-- Nav Bar End -->
+        </div>
+        <!-- Nav Bar End -->
             
             
             <!-- Page Header Start -->
@@ -99,21 +100,21 @@
                                     <i class="flaticon-address"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <p>Your Location, City, Country</p>
+                                        <p style="text-align: justify">Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="flaticon-call"></i>
                                     <div class="contact-text">
                                         <h2>Phone</h2>
-                                        <p>+012 345 67890</p>
+                                        <p>0811-146-168</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="flaticon-send-mail"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>info@example.com</p>
+                                        <p>indowgs@gmail.com</p>
                                     </div>
                                 </div>
                             </div>

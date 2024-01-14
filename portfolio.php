@@ -73,7 +73,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>Our Projects</h2>
+                            <h2>Our Services</h2>
                         </div>
                         <div class="col-12">
                             <a href="">Home</a>
@@ -89,16 +89,16 @@
             <div class="portfolio">
                 <div class="container">
                     <div class="section-header text-center">
-                        <p>Our Projects</p>
-                        <h2>Visit Our Projects</h2>
+                        <p>Our Services</p>
+                        <h2>We Provide Services</h2>
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <ul id="portfolio-flters">
-                                <li data-filter="*" class="filter-active">All</li>
-                                <li data-filter=".first">Complete</li>
-                                <li data-filter=".second">Running</li>
-                                <li data-filter=".third">Upcoming</li>
+                                <!-- <li data-filter="*" class="filter-active">All</li> -->
+                                <li data-filter=".first" class="filter-active">Mixer</li>
+                                <li data-filter=".second">Hiblow</li>
+                                <li data-filter=".third">Batching Plant</li>
                             </ul>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                             <div class="portfolio-warp">
                                 <div class="portfolio-img">
-                                    <img src="img/portfolio-1.jpg" alt="Image">
+                                    <img src="img/mixer-1.png" alt="Image">
                                     <div class="portfolio-overlay">
                                         <p>
                                             Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -115,14 +115,65 @@
                                 </div>
                                 <div class="portfolio-text">
                                     <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-1.jpg" data-lightbox="portfolio">+</a>
+                                    <a class="btn" href="img/mixer-1.png" data-lightbox="portfolio">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="portfolio-warp">
+                                <div class="portfolio-img">
+                                    <img src="img/mixer-2.png" alt="Image">
+                                    <div class="portfolio-overlay">
+                                        <p>
+                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="portfolio-text">
+                                    <h3>Project Name</h3>
+                                    <a class="btn" href="img/mixer-2.png" data-lightbox="portfolio">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="portfolio-warp">
+                                <div class="portfolio-img">
+                                    <img src="img/mixer-3.png" alt="Image">
+                                    <div class="portfolio-overlay">
+                                        <p>
+                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="portfolio-text">
+                                    <h3>Project Name</h3>
+                                    <a class="btn" href="img/mixer-3.png" data-lightbox="portfolio">+</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row portfolio-container">
+                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="portfolio-warp">
+                                <div class="portfolio-img">
+                                    <img src="img/hiblow-1.png" alt="Image">
+                                    <div class="portfolio-overlay">
+                                        <p>
+                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="portfolio-text">
+                                    <h3>Project Name</h3>
+                                    <a class="btn" href="img/hiblow-1.png" data-lightbox="portfolio">+</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.2s">
                             <div class="portfolio-warp">
                                 <div class="portfolio-img">
-                                    <img src="img/portfolio-2.jpg" alt="Image">
+                                    <img src="img/hiblow-2.png" alt="Image">
                                     <div class="portfolio-overlay">
                                         <p>
                                             Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -131,14 +182,17 @@
                                 </div>
                                 <div class="portfolio-text">
                                     <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">+</a>
+                                    <a class="btn" href="img/hiblow-2.png" data-lightbox="portfolio">+</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.3s">
+                    </div>
+
+                    <div class="row portfolio-container">
+                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item thrid wow fadeInUp" data-wow-delay="0.5s">
                             <div class="portfolio-warp">
                                 <div class="portfolio-img">
-                                    <img src="img/portfolio-3.jpg" alt="Image">
+                                    <img src="img/batchingplant-1.png" alt="Image">
                                     <div class="portfolio-overlay">
                                         <p>
                                             Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -147,46 +201,14 @@
                                 </div>
                                 <div class="portfolio-text">
                                     <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-3.jpg" data-lightbox="portfolio">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="portfolio-warp">
-                                <div class="portfolio-img">
-                                    <img src="img/portfolio-4.jpg" alt="Image">
-                                    <div class="portfolio-overlay">
-                                        <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-text">
-                                    <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-4.jpg" data-lightbox="portfolio">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
-                            <div class="portfolio-warp">
-                                <div class="portfolio-img">
-                                    <img src="img/portfolio-5.jpg" alt="Image">
-                                    <div class="portfolio-overlay">
-                                        <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-text">
-                                    <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-5.jpg" data-lightbox="portfolio">+</a>
+                                    <a class="btn" href="img/batchingplant-1.png" data-lightbox="portfolio">+</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.6s">
                             <div class="portfolio-warp">
                                 <div class="portfolio-img">
-                                    <img src="img/portfolio-6.jpg" alt="Image">
+                                    <img src="img/batchingplant-2.png" alt="Image">
                                     <div class="portfolio-overlay">
                                         <p>
                                             Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -195,7 +217,23 @@
                                 </div>
                                 <div class="portfolio-text">
                                     <h3>Project Name</h3>
-                                    <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                    <a class="btn" href="img/batchingplant-2.png" data-lightbox="portfolio">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="portfolio-warp">
+                                <div class="portfolio-img">
+                                    <img src="img/batchingplant-3.png" alt="Image">
+                                    <div class="portfolio-overlay">
+                                        <p>
+                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="portfolio-text">
+                                    <h3>Project Name</h3>
+                                    <a class="btn" href="img/batchingplant-3.png" data-lightbox="portfolio">+</a>
                                 </div>
                             </div>
                         </div>

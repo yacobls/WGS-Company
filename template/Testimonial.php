@@ -3,11 +3,11 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="single-related wow fadeInUp">
-                    <h2>Related Post</h2>
+                    <h2>Our Partners</h2>
                     <div class="owl-carousel related-slider">
                         <div class="post-item">
                             <div class="post-img">
-                                <img src="img/post-1.jpg" />
+                                <img src="img/client/client-1.png" />
                             </div>
                             <div class="post-text">
                                 <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
@@ -19,7 +19,7 @@
                         </div>
                         <div class="post-item">
                             <div class="post-img">
-                                <img src="img/post-2.jpg" />
+                                <img src="img/client/client-2.png" />
                             </div>
                             <div class="post-text">
                                 <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
@@ -31,7 +31,7 @@
                         </div>
                         <div class="post-item">
                             <div class="post-img">
-                                <img src="img/post-3.jpg" />
+                                <img src="img/client/client-3.png" />
                             </div>
                             <div class="post-text">
                                 <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="post-item">
                             <div class="post-img">
-                                <img src="img/post-4.jpg" />
+                                <img src="img/client/client-4.png" />
                             </div>
                             <div class="post-text">
                                 <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>

@@ -5,7 +5,7 @@
                 <div class="logo">
                     <a href="index.html">
                         <!-- <h1 style="color: #DA1107;">WGS</h1> -->
-                            
+                         <img src="img/wgs.png" alt="">   
                     </a>
                 </div>
             </div>

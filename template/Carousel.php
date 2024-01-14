@@ -6,28 +6,28 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/carousel-1.jpg" alt="Carousel Image">
+            <img src="img/slider-2.png" alt="Carousel Image">
             <div class="carousel-caption">
                 <p class="animated fadeInRight">We Are Professional</p>
-                <h1 class="animated fadeInLeft">For Your Dream Project</h1>
+                <h1 class="animated fadeInLeft">For Your Concrete Product</h1>
                 <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="img/carousel-2.jpg" alt="Carousel Image">
+            <img src="img/slider-3.png" alt="Carousel Image">
             <div class="carousel-caption">
                 <p class="animated fadeInRight">Professional Builder</p>
-                <h1 class="animated fadeInLeft">We Build Your Home</h1>
+                <h1 class="animated fadeInLeft">We Build Concrete Product</h1>
                 <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
             </div>
         </div>
 
         <div class="carousel-item">
-            <img src="img/carousel-3.jpg" alt="Carousel Image">
+            <img src="img/slider-1.png" alt="Carousel Image">
             <div class="carousel-caption">
                 <p class="animated fadeInRight">We Are Trusted</p>
-                <h1 class="animated fadeInLeft">For Your Dream Home</h1>
+                <h1 class="animated fadeInLeft">For Your Concrete Product</h1>
                 <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
             </div>
         </div>
