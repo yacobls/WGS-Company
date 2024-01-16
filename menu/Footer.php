@@ -4,7 +4,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="footer-contact">
                     <h2>Office Contact</h2>
-                    <p><i class="fa fa-map-marker-alt"></i>Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p>
+                    <a href="https://maps.app.goo.gl/Smr2Ca95Rma2KLzJ9"><p style="text-align: justify; color: #DA1107"><i class="fa fa-map-marker-alt"></i>Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p></a>
                     <p><i class="fa fa-phone-alt"></i>0811-146-168</p>
                     <p><i class="fa fa-envelope"></i>indowgs@gmail.com</p>
                     <div class="footer-social">
@@ -17,14 +17,14 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
-                <div class="footer-link">
+                <!-- <div class="footer-link">
                     <h2>Services Areas</h2>
                     <a href="">Building Construction</a>
                     <a href="">House Renovation</a>
                     <a href="">Architecture Design</a>
                     <a href="">Interior Design</a>
                     <a href="">Fixing & Support</a>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="footer-link">

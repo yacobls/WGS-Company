@@ -10,7 +10,7 @@
             <div class="carousel-caption">
                 <p class="animated fadeInRight">We Are Professional</p>
                 <h1 class="animated fadeInLeft">For Your Concrete Product</h1>
-                <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
+                <!-- <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a> -->
             </div>
         </div>
 
@@ -19,7 +19,7 @@
             <div class="carousel-caption">
                 <p class="animated fadeInRight">Professional Builder</p>
                 <h1 class="animated fadeInLeft">We Build Concrete Product</h1>
-                <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
+                <!-- <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a> -->
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             <div class="carousel-caption">
                 <p class="animated fadeInRight">We Are Trusted</p>
                 <h1 class="animated fadeInLeft">For Your Concrete Product</h1>
-                <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a>
+                <!-- <a class="btn animated fadeInUp" href="https://freewebsitecode.com/construction-company-website-template">Get A Quote</a> -->
             </div>
         </div>
     </div>

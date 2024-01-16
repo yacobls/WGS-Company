@@ -31,7 +31,57 @@
 <body>
     <div class="wrapper">
         <!-- Top Bar Start -->
-        <?php include '../menu/TopBar.php'; ?>
+        <div class="top-bar">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-12">
+                        <div class="logo">
+                            <a href="index.html">
+                                <!-- <h1 style="color: #DA1107;">WGS</h1> -->
+                                <img src="../img/wgs.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7 d-none d-lg-block">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="top-bar-item">
+                                    <div class="top-bar-icon">
+                                        <i class="flaticon-calendar"></i>
+                                    </div>
+                                    <div class="top-bar-text">
+                                        <h3>Opening Hour</h3>
+                                        <p>Mon - Fri, 8:00 - 16:00</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="top-bar-item">
+                                    <div class="top-bar-icon">
+                                        <i class="flaticon-call"></i>
+                                    </div>
+                                    <div class="top-bar-text">
+                                        <h3>Call Us</h3>
+                                        <p>0811-146-168</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="top-bar-item">
+                                    <div class="top-bar-icon">
+                                        <i class="flaticon-send-mail"></i>
+                                    </div>
+                                    <div class="top-bar-text">
+                                        <h3>Email Us</h3>
+                                        <p>indowgs@gmail.com</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Top Bar End -->
 
         <!-- Nav Bar Start -->
@@ -45,19 +95,19 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
-                            <a href="about.php" class="nav-item nav-link">About</a>
+                            <a href="../index.php" class="nav-item nav-link">Home</a>
+                            <a href="../about.php" class="nav-item nav-link">About</a>
                             <!-- <a href="service.php" class="nav-item nav-link">Service</a> -->
                             <!-- <a href="team.php" class="nav-item nav-link">Team</a> -->
-                            <a href="products/mixer.php" class="nav-item nav-link active">Products</a>
+                            <a href="#" class="nav-item nav-link active">Products</a>
                             <a href="../projects.php" class="nav-item nav-link">Projects</a>
-                            <!-- <div class="nav-item dropdown">
+                            <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                 <div class="dropdown-menu">
                                     <a href="blog.php" class="dropdown-item">Blog Page</a>
                                     <a href="single.php" class="dropdown-item">Single Page</a>
                                 </div>
-                            </div> -->
+                            </div>
                             <a href="../contact.php" class="nav-item nav-link">Contact</a>
                         </div>
                         <!-- <div class="ml-auto">
@@ -155,11 +205,11 @@
                     </div> -->
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12 load-more">
                     <a class="btn" href="#">Load More</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- Portfolio End -->

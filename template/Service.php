@@ -56,7 +56,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/project-1.png" alt="Image">
+                        <img src="img/project-3.png" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
@@ -72,7 +72,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/service-5.jpg" alt="Image">
+                        <img src="img/project-2.png" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.

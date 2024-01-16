@@ -192,6 +192,9 @@
         <?php include './template/Testimonial.php'; ?>
         <!-- Testimonial End -->
 
+        <!-- Testimonial Start -->
+        <!-- <?php include './template/OurUsers.php'; ?> -->
+        <!-- Testimonial End -->
 
         <!-- Blog Start -->
         <!-- <div class="blog">

@@ -100,7 +100,7 @@
                                     <i class="flaticon-address"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <p style="text-align: justify">Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p>
+                                        <a href="https://maps.app.goo.gl/Smr2Ca95Rma2KLzJ9"><p style="text-align: justify">Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p></a>
                                     </div>
                                 </div>
                                 <div class="contact-item">

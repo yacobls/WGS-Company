@@ -174,6 +174,7 @@ a:focus {
     z-index: 999;
 }
 
+/* EDIT */
 .nav-bar .navbar {
     height: 100%;
     background: #ffffff !important;
@@ -1841,7 +1842,14 @@ a:focus {
 .portfolio #portfolio-flters li.filter-active {
     background: #030f27;
     color: #fdbe33;
-    border-radius: 50%;
+    border-radius: 30px;
+}
+
+.portfolionavbar #portfolionavbar-flters li:hover,
+.portfolionavbar #portfolionavbar-flters li.filter-active {
+    background: #030f27;
+    color: #fdbe33;
+    border-radius: 30px;
 }
 
 .portfolio .load-more {
@@ -2272,5 +2280,108 @@ a:focus {
     .footer .copyright .col-md-6:last-child p {
         margin: 5px 0;
         text-align: center;
+    }
+}
+/**********************************/
+/*********** Portofolio CSS **********/
+/**********************************/
+.portofolio {
+    position: relative;
+    background: #ffffff;
+    transition: .3s;
+}
+
+.portofolio .container-fluid {
+    padding: 0;
+}
+
+.portofolio.nav-sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    max-width: 1366px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+    z-index: 999;
+}
+
+/* EDIT */
+.portofolio .navbar {
+    height: 100%;
+    background: #ffffff !important;
+}
+
+/* EDIT */
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+    padding: 10px 10px 8px 10px;
+    color: #DA1107;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #fdbe33;
+    transition: none;
+}
+
+.portofolio .dropdown-menu {
+    margin-top: 0;
+    border: 0;
+    border-radius: 0;
+    background: #f8f9fa;
+}
+
+.portofolio .btn {
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 0;
+}
+
+.portofolio .btn:hover {
+    color: #030f27;
+    background: #fdbe33;
+    border-color: #fdbe33;
+}
+
+@media (min-width: 992px) {
+    .portofolio {
+        padding: 0 75px;
+    }
+    
+    .portofolio.nav-sticky {
+        padding: 0;
+    }
+    
+    .portofolio .navbar {
+        padding: 20px;
+    }
+    
+    .portofolio .navbar-brand {
+        display: none;
+    }
+    
+    .portofolio a.nav-link {
+        padding: 8px 15px;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .portofolio .navbar {
+        padding: 15px;
+    }
+    
+    .portofolio a.nav-link {
+        padding: 5px;
+    }
+    
+    .portofolio .dropdown-menu {
+        box-shadow: none;
+    }
+    
+    .portofolio .btn {
+        display: none;
     }
 }
