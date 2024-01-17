@@ -121,7 +121,7 @@
 
 
         <!-- Page Header Start -->
-        <div class="page-header">
+        <!-- <div class="page-header">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -133,7 +133,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Page Header End -->
 
 
@@ -145,18 +145,38 @@
                     <h2>We Provide Services</h2>
                 </div>
                 <div class="row">
-                    <div class="col-12">
-                        <ul id="portfolio-flters">
-                            <div class="portofolio dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                                <div class="dropdown-menu">
-                                    <!-- <li data-filter="*" class="filter-active">All</li> -->
-                                    <li data-filter=".first"><a href="mixer.php">Mixer</a></li>
+                    <div class="navbar" style="margin: auto">
+                        <div class="">
+                            <ul id="portfolio-flters">
+                                <div class="nav-item dropdown">
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s" data-toggle="dropdown">Mixer</li>
+                                    <div class="dropdown-menu">
+                                        <!-- <li data-filter="*" class="filter-active">All</li> -->
+                                        <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div>
+                                    </div>
                                 </div>
-                            </div>
-                            <li data-filter=".second"><a href="hiblow.php">Hiblow</a></li>
-                            <li data-filter=".third" class="filter-active">Batching Plant</li>
-                        </ul>
+                            </ul>
+                        </div>
+                        <div class="">
+                            <ul id="portfolio-flters">
+                                <div class="nav-item dropdown">
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s" data-toggle="dropdown">Hiblow</li>
+                                    <div class="dropdown-menu">
+                                        <div data-filter=".first" class="dropdown-item"><a href="hiblow.php">Hiblow</a></div>
+                                    </div>
+                                </div>
+                            </ul>
+                        </div>
+                        <div class="">
+                            <ul id="portfolio-flters">
+                                <div class="nav-item dropdown">
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching</li>
+                                    <div class="dropdown-menu">
+                                        <div data-filter=".first" class="dropdown-item"><a href="#">Batching Plant</a></div>
+                                    </div>
+                                </div>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="row portfolio-container">

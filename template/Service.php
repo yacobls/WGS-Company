@@ -81,7 +81,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Spare Part Distributor</h3>
-                        <a class="btn" href="img/service-5.jpg" data-lightbox="service">+</a>
+                        <a class="btn" href="img/project-2.png" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>
