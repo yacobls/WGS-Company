@@ -101,13 +101,13 @@
                             <!-- <a href="team.php" class="nav-item nav-link">Team</a> -->
                             <a href="#" class="nav-item nav-link active">Products</a>
                             <a href="../projects.php" class="nav-item nav-link">Projects</a>
-                            <div class="nav-item dropdown">
+                            <!-- <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                 <div class="dropdown-menu">
                                     <a href="blog.php" class="dropdown-item">Blog Page</a>
                                     <a href="single.php" class="dropdown-item">Single Page</a>
                                 </div>
-                            </div>
+                            </div> -->
                             <a href="../contact.php" class="nav-item nav-link">Contact</a>
                         </div>
                         <!-- <div class="ml-auto">
@@ -152,11 +152,9 @@
                                     <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s" data-toggle="dropdown">Mixer</li>
                                     <div class="dropdown-menu">
                                         <!-- <li data-filter="*" class="filter-active">All</li> -->
-                                        <div class="popup wow fadeIn" data-wow-delay="0.1s">
-                                            <div class="container">
-                                                <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                    <a href="#">Spec</a>
-                                                </div>
+                                        <div class="container">
+                                            <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
+                                                <a class="btn" href="../img/WGS Mixer.png" data-lightbox="WGS-Mixer">Spec</a>
                                             </div>
                                         </div>
                                     </div>
@@ -166,72 +164,79 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s" data-toggle="dropdown">Hiblow</li>
-                                    <div class="dropdown-menu">
+                                    <li class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s"><a href="hiblow.php">Hiblow</a></li>
+                                    <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="hiblow.php">Hiblow</a></div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </ul>
                         </div>
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching</li>
-                                    <div class="dropdown-menu">
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s"><a href="batching.php">Batching Plant</a></li>
+                                    <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="batching.php">Batching Plant</a></div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </ul>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row portfolio-container">
-                <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <img src="../img/mixer-1.png" alt="Image">
-                            <div class="portfolio-overlay">
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
-                                </p>
+
+                <div class="row portfolio-container">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT MAGNA/7.jpeg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h3>Project Name</h3>
-                            <a class="btn" href="../img/mixer-1.png" data-lightbox="portfolio">+</a>
+                            <div class="portfolio-text">
+                                <h3>PT MAGNA</h3>
+                                <a class="btn" href="../img/mixer/PT MAGNA/1.jpeg" data-lightbox="PT MAGNA">+</a>
+                                <a href="../img/mixer/PT MAGNA/2.jpeg" data-lightbox="PT MAGNA"></a>
+                                <a href="../img/mixer/PT MAGNA/3.jpeg" data-lightbox="PT MAGNA"></a>
+                                <a href="../img/mixer/PT MAGNA/4.jpeg" data-lightbox="PT MAGNA"></a>
+                                <a href="../img/mixer/PT MAGNA/5.jpeg" data-lightbox="PT MAGNA"></a>
+                                <a href="../img/mixer/PT MAGNA/6.jpeg" data-lightbox="PT MAGNA"></a>
+                                <a href="../img/mixer/PT MAGNA/7.jpeg" data-lightbox="PT MAGNA"></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <img src="../img/mixer-2.png" alt="Image">
-                            <div class="portfolio-overlay">
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
-                                </p>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer-2.png" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h3>Project Name</h3>
-                            <a class="btn" href="../img/mixer-2.png" data-lightbox="portfolio">+</a>
+                            <div class="portfolio-text">
+                                <h3>Project Name</h3>
+                                <a class="btn" href="../img/mixer-2.png" data-lightbox="portfolio">+</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <img src="../img/mixer-3.png" alt="Image">
-                            <div class="portfolio-overlay">
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
-                                </p>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer-3.png" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h3>Project Name</h3>
-                            <a class="btn" href="../img/mixer-3.png" data-lightbox="portfolio">+</a>
+                            <div class="portfolio-text">
+                                <h3>Project Name</h3>
+                                <a class="btn" href="../img/mixer-3.png" data-lightbox="portfolio">+</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -243,22 +248,6 @@
                 </div>
             </div> -->
     </div>
-    </div>
-
-    <div class="modal fade" id="popupModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                    <!-- 16:9 aspect ratio -->
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="" id="popup" allowscriptaccess="always" allow="autoplay"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
     <!-- Portfolio End -->
 

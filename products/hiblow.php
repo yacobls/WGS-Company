@@ -149,11 +149,11 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s" data-toggle="dropdown">Mixer</li>
-                                    <div class="dropdown-menu">
-                                        <!-- <li data-filter="*" class="filter-active">All</li> -->
-                                        <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div>
-                                    </div>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s"><a href="mixer.php">Mixer</a></li>
+                                    <!-- <div class="dropdown-menu"> -->
+                                    <!-- <li data-filter="*" class="filter-active">All</li> -->
+                                    <!-- <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div>
+                                    </div> -->
                                 </div>
                             </ul>
                         </div>
@@ -162,7 +162,11 @@
                                 <div class="nav-item dropdown">
                                     <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s" data-toggle="dropdown">Hiblow</li>
                                     <div class="dropdown-menu">
-                                        <div data-filter=".first" class="dropdown-item"><a href="#">Hiblow</a></div>
+                                        <div class="container">
+                                            <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
+                                                <a class="btn" href="../img/WGS Hiblow.png" data-lightbox="WGS Hiblow">Spec</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </ul>
@@ -170,10 +174,10 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching</li>
-                                    <div class="dropdown-menu">
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s"><a href="batching.php">Batching Plant</a></li>
+                                    <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="batching.php">Batching Plant</a></div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </ul>
                         </div>
@@ -183,7 +187,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/hiblow-1.png" alt="Image">
+                                <img src="../img/hiblow/PT SBS/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -191,8 +195,16 @@
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="../img/hiblow-1.png" data-lightbox="portfolio">+</a>
+                                <h3>PT SBS</h3>
+                                <a class="btn" href="../img/hiblow/PT SBS/1.jpg" data-lightbox="PT SBS">+</a>
+                                <a href="../img/hiblow/PT SBS/2.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/3.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/4.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/5.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/6.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/7.jpg" data-lightbox="PT SBS"></a>
+                                <a href="../img/hiblow/PT SBS/8.jpg" data-lightbox="PT SBS"></a>
+
                             </div>
                         </div>
                     </div>

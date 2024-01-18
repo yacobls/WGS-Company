@@ -149,21 +149,21 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s" data-toggle="dropdown">Mixer</li>
-                                    <div class="dropdown-menu">
-                                        <!-- <li data-filter="*" class="filter-active">All</li> -->
-                                        <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div>
-                                    </div>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s"><a href="mixer.php">Mixer</a></li>
+                                    <!-- <div class="dropdown-menu"> -->
+                                    <!-- <li data-filter="*" class="filter-active">All</li> -->
+                                    <!-- <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div> -->
+                                    <!-- </div> -->
                                 </div>
                             </ul>
                         </div>
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s" data-toggle="dropdown">Hiblow</li>
-                                    <div class="dropdown-menu">
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s"><a href="hiblow.php">Hiblow</a></li>
+                                    <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="hiblow.php">Hiblow</a></div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </ul>
                         </div>
@@ -172,7 +172,11 @@
                                 <div class="nav-item dropdown">
                                     <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching</li>
                                     <div class="dropdown-menu">
-                                        <div data-filter=".first" class="dropdown-item"><a href="#">Batching Plant</a></div>
+                                        <div class="container" style="margin-right: 146px">
+                                            <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
+                                                <p><a class="btn" href="https://wa.me/62811146168">Spec: <i class="fab fa-whatsapp"></i> +62 811-146-168</a></p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </ul>
@@ -183,7 +187,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/batchingplant-1.png" alt="Image">
+                                <img src="../img/batching/Batching 1/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -192,11 +196,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>Project Name</h3>
-                                <a class="btn" href="../img/batchingplant-1.png" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="../img/batching/Batching 1/1.jpg" data-lightbox="Batching 1">+</a>
+                                <a href="../img/batching/Batching 1/2.jpg" data-lightbox="Batching 1"></a>
+                                <a href="../img/batching/Batching 1/3.jpg" data-lightbox="Batching 1"></a>
+
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batchingplant-2.png" alt="Image">
@@ -227,14 +234,14 @@
                                 <a class="btn" href="../img/batchingplant-3.png" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <!-- <div class="row">
-                <div class="col-12 load-more">
-                    <a class="btn" href="#">Load More</a>
-                </div>
-            </div> -->
+                    <div class="col-12 load-more">
+                        <a class="btn" href="#">Load More</a>
+                    </div>
+                </div> -->
         </div>
     </div>
     <!-- Portfolio End -->
