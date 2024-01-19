@@ -3,14 +3,14 @@
         <div class="row">
             <div class="col-12">
                 <div class="testimonial-slider-nav">
-                    <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                    <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-1.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-2.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-3.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-4.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-1.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-2.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-3.jpg" alt="Testimonial"></div>
+                    <div class="slider-nav"><img src="img/testimonial/testimonial-4.jpg" alt="Testimonial"></div>
                 </div>
             </div>
         </div>

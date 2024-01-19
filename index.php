@@ -77,7 +77,7 @@
 
 
         <!-- Feature Start-->
-        <?php include './template/FeatureStart.php'; ?>
+        <?php include './template/Feature.php'; ?>
         <!-- Feature End-->
 
 

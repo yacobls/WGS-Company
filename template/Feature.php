@@ -8,7 +8,7 @@
                     </div>
                     <div class="feature-text">
                         <h3>Expert Worker</h3>
-                        <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                        <p>Experienced in the field of manufacture for decades to lead a dedicated manufacturing team</p>
                     </div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
                     </div>
                     <div class="feature-text">
                         <h3 style="color: #DA1107">Quality Work</h3>
-                        <p style="color: #DA1107">Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                        <p style="color: #DA1107">Continuous innovation with design and technology to keep up with market demand</p>
                     </div>
                 </div>
             </div>
@@ -29,8 +29,8 @@
                         <i class="flaticon-call"></i>
                     </div>
                     <div class="feature-text">
-                        <h3>24/7 Support</h3>
-                        <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                        <h3>After Sales</h3>
+                        <p>After Sales Service is available for maintenance and parts purchase when required</p>
                     </div>
                 </div>
             </div>

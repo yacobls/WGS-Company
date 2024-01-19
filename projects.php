@@ -108,7 +108,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/project-1.png" alt="Image">
+                                <img src="img/project/project-1.png" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
@@ -117,13 +117,13 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>TPST Cilincing</h3>
-                                <a class="btn" href="img/project-1.png" data-lightbox="portfolio">+</a>
-                                <a href="img/project-2.png" data-lightbox="portfolio"></a>
-                                <a href="img/project-3.png" data-lightbox="portfolio"></a>
-                                <a href="img/project-4.png" data-lightbox="portfolio"></a>
-                                <a href="img/project-5.png" data-lightbox="portfolio"></a>
-                                <a href="img/project-6.png" data-lightbox="portfolio"></a>
-                                <a href="img/project-7.png" data-lightbox="portfolio"></a>
+                                <a class="btn" href="img/project/project-1.png" data-lightbox="portfolio">+</a>
+                                <a href="img/project/project-2.png" data-lightbox="portfolio"></a>
+                                <a href="img/project/project-3.png" data-lightbox="portfolio"></a>
+                                <a href="img/project/project-4.png" data-lightbox="portfolio"></a>
+                                <a href="img/project/project-5.png" data-lightbox="portfolio"></a>
+                                <a href="img/project/project-6.png" data-lightbox="portfolio"></a>
+                                <a href="img/project/project-7.png" data-lightbox="portfolio"></a>
                             </div>
                         </div>
                     </div>

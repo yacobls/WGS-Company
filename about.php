@@ -103,10 +103,13 @@
                         </div>
                         <div class="about-text">
                             <p style="text-align: justify">
-                                Established in 1970, Wira Gulfindo Sarana was initially engaged in steel fabrication, especially the manufacture and installation of Pertamina fuel tanks. Over time, in 1984 the company developed its products into the field of vehicle bodywork specifically for the construction sector, consisting of concrete mixers, bulk tank trucks and concrete batching plants.
+                                PT. Wira Gulfindo Sarana, was originally founded in 1962 with the name Wira Teknik, and started its business activity as steel tank fabrication and installation for Pertamina refineries throughout Indonesia.
                             </p>
                             <p style="text-align: justify">
-                                In 1992 PT. Wira Gulfindo Sarana was appointed by the DKI Jakarta Provincial Government to build and manage the Intermediate Transit Station in Cakung Cilincing. This collaboration agreement makes PT. Wira Gulfindo Sarana is the first private company in the field of waste processing in Indonesia. The Environmental Division continues to develop with other activities including being the sole agent for SULO trash cans for Indonesia.
+                                WGS further expanded its products line to manufacturing concrete equipments consisting of Concrete Mixers, Bulk Cement Tankers and Concrete Batching Plant.
+                            </p>
+                            <p style="text-align: justify">
+                                WGS developed its environmental division in 1992 when it became the first private company appointed by the Jakarta Municipal government to build and operate Waste Transfer Station, and has since continued to improve the division’s activities to reach the retail sector in supplying range of waste management equipment.
                             </p>
                             <!-- <a class="btn" href="">Learn More</a> -->
                         </div>

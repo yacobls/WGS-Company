@@ -154,7 +154,7 @@
                                         <!-- <li data-filter="*" class="filter-active">All</li> -->
                                         <div class="container">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                <a class="btn" href="../img/WGS Mixer.png" data-lightbox="WGS-Mixer">Spec</a>
+                                                <a class="btn" href="../img/spec/WGS Mixer.png" data-lightbox="WGS-Mixer">Spec</a>
                                             </div>
                                         </div>
                                     </div>
@@ -191,7 +191,7 @@
                                 <img src="../img/mixer/PT MAGNA/7.jpeg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                    DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
                                     </p>
                                 </div>
                             </div>

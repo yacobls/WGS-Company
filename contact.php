@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Builderz - Construction Company Website Template</title>
+        <title>WGS - Contact Us</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Construction Company Website Template" name="keywords">
         <meta content="Construction Company Website Template" name="description">
@@ -70,19 +70,19 @@
             
             
             <!-- Page Header Start -->
-            <!-- <div class="page-header">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h2>Contact Us</h2>
-                        </div>
-                        <div class="col-12">
-                            <a href="">Home</a>
-                            <a href="">Contact Us</a>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+            <!--<div class="page-header">-->
+            <!--    <div class="container">-->
+            <!--        <div class="row">-->
+            <!--            <div class="col-12">-->
+            <!--                <h2>Contact Us</h2>-->
+            <!--            </div>-->
+            <!--            <div class="col-12">-->
+            <!--                <a href="">Home</a>-->
+            <!--                <a href="">Contact Us</a>-->
+            <!--            </div>-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
             <!-- Page Header End -->
 
 
@@ -100,21 +100,23 @@
                                     <i class="flaticon-address"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <a href="https://maps.app.goo.gl/Smr2Ca95Rma2KLzJ9"><p style="text-align: justify">Jl. Plumpang Semper No.50 9, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p></a>
+                                        <a href="https://maps.app.goo.gl/Smr2Ca95Rma2KLzJ9"><p style="text-align: justify">Jl. Raya Plumpang Semper No.50, RT.3/RW.2, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14260</p></a>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="flaticon-call"></i>
                                     <div class="contact-text">
                                         <h2>Phone</h2>
-                                        <p>0811-146-168</p>
+                                        <a href = "https://wa.me/62811146168"><p><i class="fab fa-whatsapp"></i>    +62 811-146-168</p></a>
+                                        <p><i class="fa fa-phone-alt"></i>  +62 21 437 0626</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="flaticon-send-mail"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>indowgs@gmail.com</p>
+                                        <p>wira.gulfindo@gmail.com</p>
+                                        <p>wira.marketing@gmail.com</p>
                                     </div>
                                 </div>
                             </div>

@@ -164,7 +164,7 @@
                                     <div class="dropdown-menu">
                                         <div class="container">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                <a class="btn" href="../img/WGS Hiblow.png" data-lightbox="WGS Hiblow">Spec</a>
+                                                <a class="btn" href="../img/spec/WGS Hiblow.png" data-lightbox="WGS Hiblow">Spec</a>
                                             </div>
                                         </div>
                                     </div>

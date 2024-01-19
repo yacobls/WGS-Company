@@ -89,7 +89,7 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
                     <a href="#" class="navbar-brand">MENU</a>
-                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #DA1107">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
@@ -170,11 +170,11 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching</li>
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching Plan</li>
                                     <div class="dropdown-menu">
                                         <div class="container" style="margin-right: 146px">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                <p><a class="btn" href="https://wa.me/62811146168">Spec: <i class="fab fa-whatsapp"></i> +62 811-146-168</a></p>
+                                                <p style="margin-bottom:5px"><a class="btn" href="https://wa.me/62811146168">Spec: <i class="fab fa-whatsapp"></i> +62 811-146-168</a></p>
                                             </div>
                                         </div>
                                     </div>
