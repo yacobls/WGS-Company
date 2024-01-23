@@ -164,7 +164,7 @@
                                     <div class="dropdown-menu">
                                         <div class="container">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                <a class="btn" href="../img/spec/WGS Hiblow.png" data-lightbox="WGS Hiblow">Spec</a>
+                                                <a class="btn" href="../img/spec/WGS Hiblow.jpg" data-lightbox="WGS Hiblow">Spec</a>
                                             </div>
                                         </div>
                                     </div>
@@ -184,43 +184,130 @@
                     </div>
                 </div>
                 <div class="row portfolio-container">
+
+            <!-- PT Semen Indonesia Group -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/hiblow/PT SBS/1.jpg" alt="Image">
+                                <img src="../img/hiblow/PT Semen Indonesia Group/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>PT SBS</h3>
-                                <a class="btn" href="../img/hiblow/PT SBS/1.jpg" data-lightbox="PT SBS">+</a>
-                                <a href="../img/hiblow/PT SBS/2.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/3.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/4.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/5.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/6.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/7.jpg" data-lightbox="PT SBS"></a>
-                                <a href="../img/hiblow/PT SBS/8.jpg" data-lightbox="PT SBS"></a>
+                                <h5>PT Semen Indonesia Group</h5>
+                                <a class="btn" href="../img/hiblow/PT Semen Indonesia Group/1.jpg" data-lightbox="PT Semen Indonesia Group">+</a>
+                                <a href="../img/hiblow/PT Semen Indonesia Group/2.jpg" data-lightbox="PT Semen Indonesia Group"></a>
+                                <a href="../img/hiblow/PT Semen Indonesia Group/3.jpg" data-lightbox="PT Semen Indonesia Group"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Semen Padang -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/hiblow/PT Semen Padang/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Semen Padang</h3>
+                                <a class="btn" href="../img/hiblow/PT Semen Padang/1.jpg" data-lightbox="PT Semen Padang">+</a>
+                                <a href="../img/hiblow/PT Semen Padang/2.jpg" data-lightbox="PT Semen Padang"></a>
+                                <a href="../img/hiblow/PT Semen Padang/3.jpg" data-lightbox="PT Semen Padang"></a>
+                                <a href="../img/hiblow/PT Semen Padang/4.jpg" data-lightbox="PT Semen Padang"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Surya Buana Sentosa -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/hiblow/PT Surya Buana Sentosa/5.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Surya Buana Sentosa</h3>
+                                <a class="btn" href="../img/hiblow/PT Surya Buana Sentosa/5.jpg" data-lightbox="PT Surya Buana Sentosa">+</a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/4.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/3.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/1.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/2.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/6.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/7.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
+                                <a href="../img/hiblow/PT Surya Buana Sentosa/8.jpg" data-lightbox="PT Surya Buana Sentosa"></a>
 
                             </div>
                         </div>
                     </div>
+
+            <!-- PT Sinar Indah Perkasa -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/hiblow-2.png" alt="Image">
+                                <img src="../img/hiblow/PT Sinar Indah Perkasa/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="../img/hiblow-2.png" data-lightbox="portfolio">+</a>
+                                <h3>PT Sinar Indah Perkasa</h3>
+                                <a class="btn" href="../img/hiblow/PT Sinar Indah Perkasa/1.jpg" data-lightbox="PT Sinar Indah Perkasa">+</a>
+                                <a href="../img/hiblow/PT Sinar Indah Perkasa/2.jpg" data-lightbox="PT Sinar Indah Perkasa"></a>
+                                <a href="../img/hiblow/PT Sinar Indah Perkasa/3.jpg" data-lightbox="PT Sinar Indah Perkasa"></a>
+                                <a href="../img/hiblow/PT Sinar Indah Perkasa/4.jpg" data-lightbox="PT Sinar Indah Perkasa"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT MGR -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/hiblow/PT MGR/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT MGR</h3>
+                                <a class="btn" href="../img/hiblow/PT MGR/1.jpg" data-lightbox="PT MGR">+</a>
+                                <a href="../img/hiblow/PT MGR/2.jpg" data-lightbox="PT MGR"></a>
+                                <a href="../img/hiblow/PT MGR/3.jpg" data-lightbox="PT MGR"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Bintang Sejati Utama -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/hiblow/PT Bintang Sejati Utama/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                    LIGHTWEIGHT, EFFICIENT AND VERSATILE
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Bintang Sejati Utama</h3>
+                                <a class="btn" href="../img/hiblow/PT Bintang Sejati Utama/1.jpg" data-lightbox="PT Bintang Sejati Utama">+</a>
+                                <a href="../img/hiblow/PT Bintang Sejati Utama/2.jpg" data-lightbox="PT Bintang Sejati Utama"></a>
                             </div>
                         </div>
                     </div>

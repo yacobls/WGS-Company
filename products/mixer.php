@@ -154,7 +154,7 @@
                                         <!-- <li data-filter="*" class="filter-active">All</li> -->
                                         <div class="container">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
-                                                <a class="btn" href="../img/spec/WGS Mixer.png" data-lightbox="WGS-Mixer">Spec</a>
+                                                <a class="btn" href="../img/spec/WGS Mixer.jpg" data-lightbox="WGS-Mixer">Spec</a>
                                             </div>
                                         </div>
                                     </div>
@@ -185,13 +185,175 @@
                 </div>
 
                 <div class="row portfolio-container">
+
+            <!-- PT UD Trucks -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT UD Trucks/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h5>PT UD Trucks</h5>
+                                <a class="btn" href="../img/mixer/PT UD Trucks/1.jpg" data-lightbox="PT UD Trucks">+</a>
+                                <a href="../img/mixer/PT UD Trucks/2.jpg" data-lightbox="PT UD Trucks"></a>
+                                <a href="../img/mixer/PT UD Trucks/3.jpg" data-lightbox="PT UD Trucks"></a>
+                                <a href="../img/mixer/PT UD Trucks/4.jpg" data-lightbox="PT UD Trucks"></a>
+                                <a href="../img/mixer/PT UD Trucks/5.jpg" data-lightbox="PT UD Trucks"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Semen Tiga Roda -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Semen Tiga Roda/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Semen Tiga Roda</h3>
+                                <a class="btn" href="../img/mixer/PT Semen Tiga Roda/1.jpg" data-lightbox="PT Semen Tiga Roda">+</a>
+                                <a href="../img/mixer/PT Semen Tiga Roda/2.jpg" data-lightbox="PT Semen Tiga Roda"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Waskita -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Waskita/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h5>PT Waskita</h5>
+                                <a class="btn" href="../img/mixer/PT Waskita/1.jpg" data-lightbox="PT Waskita">+</a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Holcim -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Holcim/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h5>PT Holcim</h5>
+                                <a class="btn" href="../img/mixer/PT Holcim/1.jpg" data-lightbox="PT Holcim">+</a>
+                                <a href="../img/mixer/PT Holcim/2.jpg" data-lightbox="PT Holcim"></a>
+                                <a href="../img/mixer/PT Holcim/3.jpg" data-lightbox="PT Holcim"></a>
+                                <a href="../img/mixer/PT Holcim/4.jpg" data-lightbox="PT Holcim"></a>
+                                <a href="../img/mixer/PT Holcim/5.jpg" data-lightbox="PT Holcim"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Semen Merah Putih -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Semen Merah Putih/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Semen Merah Putih</h3>
+                                <a class="btn" href="../img/mixer/PT Semen Merah Putih/1.jpg" data-lightbox="PT Semen Merah Putih">+</a>
+                                <a href="../img/mixer/PT Semen Merah Putih/2.jpg" data-lightbox="PT Semen Merah Putih"></a>
+                                <a href="../img/mixer/PT Semen Merah Putih/3.jpg" data-lightbox="PT Semen Merah Putih"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Anugrah Beton -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Anugrah Beton/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT Anugrah Beton</h3>
+                                <a class="btn" href="../img/mixer/PT Anugrah Beton/1.jpg" data-lightbox="PT Anugrah Beton">+</a>
+                                <a href="../img/mixer/PT Anugrah Beton/2.jpg" data-lightbox="PT Anugrah Beton"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT Semen Indonesia Sentosa -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT Semen Indonesia Sentosa/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h5>PT Semen Indonesia Sentosa</h5>
+                                <a class="btn" href="../img/mixer/PT Semen Indonesia Sentosa/1.jpg" data-lightbox="PT Semen Indonesia Sentosa">+</a>
+                                <a href="../img/mixer/PT Semen Indonesia Sentosa/2.jpg" data-lightbox="PT Semen Indonesia Sentosa"></a>
+                                <a href="../img/mixer/PT Semen Indonesia Sentosa/3.jpg" data-lightbox="PT Semen Indonesia Sentosa"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT MAN -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT MAN/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT MAN</h3>
+                                <a class="btn" href="../img/mixer/PT MAN/1.jpg" data-lightbox="PT MAN">+</a>
+                                <a href="../img/mixer/PT MAN/2.jpg" data-lightbox="PT MAN"></a>
+                                <a href="../img/mixer/PT MAN/3.jpg" data-lightbox="PT MAN"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT MAGNA -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT MAGNA/7.jpeg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                    DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
                                     </p>
                                 </div>
                             </div>
@@ -207,35 +369,63 @@
                             </div>
                         </div>
                     </div>
+
+            <!-- PT Adi Jaya Beton -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/mixer-2.png" alt="Image">
+                                <img src="../img/mixer/PT Adi Jaya Beton/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="../img/mixer-2.png" data-lightbox="portfolio">+</a>
+                                <h3>PT Adi Jaya Beton</h3>
+                                <a class="btn" href="../img/mixer/PT Adi Jaya Beton/1.jpg" data-lightbox="PT Adi Jaya Beton">+</a>
+                                <a href="../img/mixer/PT Adi Jaya Beton/2.jpg" data-lightbox="PT Adi Jaya Beton"></a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+
+            <!-- PT Aneka Dharma Persada -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="../img/mixer-3.png" alt="Image">
+                                <img src="../img/mixer/PT Aneka Dharma Persada/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
-                                <a class="btn" href="../img/mixer-3.png" data-lightbox="portfolio">+</a>
+                                <h3>PT Aneka Dharma Persada</h3>
+                                <a class="btn" href="../img/mixer/PT Aneka Dharma Persada/1.jpg" data-lightbox="PT Aneka Dharma Persada">+</a>
+                                <a href="../img/mixer/PT Aneka Dharma Persada/2.jpg" data-lightbox="PT Aneka Dharma Persada"></a>
+                                <a href="../img/mixer/PT Aneka Dharma Persada/3.jpg" data-lightbox="PT Aneka Dharma Persada"></a>
+                                <a href="../img/mixer/PT Aneka Dharma Persada/4.jpg" data-lightbox="PT Aneka Dharma Persada"></a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- PT MAM -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/mixer/PT MAM/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DESIGNED & BUILT FOR EFFICIENCY, RELIABILITY AND SAFETY
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>PT MAM</h3>
+                                <a class="btn" href="../img/mixer/PT MAM/1.jpg" data-lightbox="PT MAM">+</a>
+                                <a href="../img/mixer/PT MAM/2.jpg" data-lightbox="PT MAM"></a>
+                                <a href="../img/mixer/PT MAM/3.jpg" data-lightbox="PT MAM"></a>
                             </div>
                         </div>
                     </div>

@@ -184,22 +184,122 @@
                     </div>
                 </div>
                 <div class="row portfolio-container">
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/batching/Batching 3/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>Batching Plan</h3>
+                                <a class="btn" href="../img/batching/Batching 3/1.jpg" data-lightbox="Batching 3">+</a>
+                                <a href="../img/batching/Batching 3/2.jpg" data-lightbox="Batching 3"></a>
+                                <a href="../img/batching/Batching 3/3.jpg" data-lightbox="Batching 3"></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 1/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                        Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
                                     </p>
                                 </div>
                             </div>
                             <div class="portfolio-text">
-                                <h3>Project Name</h3>
+                                <h3>Batching Plan</h3>
                                 <a class="btn" href="../img/batching/Batching 1/1.jpg" data-lightbox="Batching 1">+</a>
                                 <a href="../img/batching/Batching 1/2.jpg" data-lightbox="Batching 1"></a>
                                 <a href="../img/batching/Batching 1/3.jpg" data-lightbox="Batching 1"></a>
 
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/batching/Batching 2/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>Batching Plan</h3>
+                                <a class="btn" href="../img/batching/Batching 2/1.jpg" data-lightbox="Batching 2">+</a>
+                                <a href="../img/batching/Batching 2/2.jpg" data-lightbox="Batching 2"></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/batching/Batching 4/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>Batching Plan</h3>
+                                <a class="btn" href="../img/batching/Batching 4/1.jpg" data-lightbox="Batching 4">+</a>
+                                <a href="../img/batching/Batching 4/2.jpg" data-lightbox="Batching 4"></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/batching/Batching 5/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>Batching Plan</h3>
+                                <a class="btn" href="../img/batching/Batching 5/1.jpg" data-lightbox="Batching 5">+</a>
+                                <a href="../img/batching/Batching 5/2.jpg" data-lightbox="Batching 5"></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-warp">
+                            <div class="portfolio-img">
+                                <img src="../img/batching/Batching 6/1.jpg" alt="Image">
+                                <div class="portfolio-overlay">
+                                    <p>
+                                        DYNAMIC DESIGN TO SUIT ANY PROJECT CONDITIONS
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="portfolio-text">
+                                <h3>Batching Plan</h3>
+                                <a class="btn" href="../img/batching/Batching 6/1.jpg" data-lightbox="Batching 6">+</a>
+                                <a href="../img/batching/Batching 6/2.jpg" data-lightbox="Batching 6"></a>
+                                <a href="../img/batching/Batching 6/3.jpg" data-lightbox="Batching 6"></a>
+                                <a href="../img/batching/Batching 6/4.jpg" data-lightbox="Batching 6"></a>
                             </div>
                         </div>
                     </div>

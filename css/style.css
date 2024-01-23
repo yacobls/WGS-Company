@@ -1937,6 +1937,34 @@ a:focus {
     text-overflow: ellipsis;
 }
 
+/* EDIT */
+.portfolio .portfolio-text h4 {
+    margin: 0;
+    padding: 0 15px 0 25px;
+    width: calc(100% - 60px);
+    font-size: 13px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* EDIT */
+.portfolio .portfolio-text h5 {
+    margin: 0;
+    padding: 0 15px 0 25px;
+    width: calc(100% - 60px);
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
 .portfolio .portfolio-warp a.btn {
     width: 60px;
     height: 60px;
