@@ -89,7 +89,7 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
                     <a href="#" class="navbar-brand">MENU</a>
-                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #DA1107">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
@@ -186,7 +186,7 @@
                 <div class="row portfolio-container">
 
             <!-- PT Semen Indonesia Group -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Semen Indonesia Group/1.jpg" alt="Image">
@@ -206,7 +206,7 @@
                     </div>
 
             <!-- PT Semen Padang -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Semen Padang/1.jpg" alt="Image">
@@ -227,7 +227,7 @@
                     </div>
 
             <!-- PT Surya Buana Sentosa -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Surya Buana Sentosa/5.jpg" alt="Image">
@@ -253,7 +253,7 @@
                     </div>
 
             <!-- PT Sinar Indah Perkasa -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Sinar Indah Perkasa/1.jpg" alt="Image">
@@ -274,7 +274,7 @@
                     </div>
 
             <!-- PT MGR -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT MGR/1.jpg" alt="Image">
@@ -294,7 +294,7 @@
                     </div>
 
             <!-- PT Bintang Sejati Utama -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Bintang Sejati Utama/1.jpg" alt="Image">

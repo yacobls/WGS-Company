@@ -56,7 +56,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/project/Project-3.png" alt="Image">
+                        <img src="img/project/project-3.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 EXPERIENCED IN DESIGNING AND OPERATION MUNICIPAL WASTE TREATMENT FACILITIES, AND PROVIDING ENVIRONMENTAL EQUIPMENTS
@@ -72,7 +72,7 @@
             <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="img/project/Project-2.png" alt="Image">
+                        <img src="img/project/project-2.jpg" alt="Image">
                         <div class="service-overlay">
                             <p>
                                 AFTER SALES SERVICE SOLUTION FOR ALL CONCRETE EQUIPMENT MAINTENANCE AND REPAIRS
@@ -81,7 +81,7 @@
                     </div>
                     <div class="service-text">
                         <h3>Spare Part Distributor</h3>
-                        <a class="btn" href="img/Project-2.png" data-lightbox="service">+</a>
+                        <a class="btn" href="img/project-2.jpg" data-lightbox="service">+</a>
                     </div>
                 </div>
             </div>

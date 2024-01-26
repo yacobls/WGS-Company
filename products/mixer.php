@@ -89,7 +89,7 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
                     <a href="#" class="navbar-brand">MENU</a>
-                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #DA1107">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
@@ -187,7 +187,7 @@
                 <div class="row portfolio-container">
 
             <!-- PT UD Trucks -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT UD Trucks/1.jpg" alt="Image">
@@ -209,7 +209,7 @@
                     </div>
 
             <!-- PT Semen Tiga Roda -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Semen Tiga Roda/1.jpg" alt="Image">
@@ -246,7 +246,7 @@
                     </div>
 
             <!-- PT Holcim -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Holcim/1.jpg" alt="Image">
@@ -268,7 +268,7 @@
                     </div>
 
             <!-- PT Semen Merah Putih -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Semen Merah Putih/1.jpg" alt="Image">
@@ -307,7 +307,7 @@
                     </div>
 
             <!-- PT Semen Indonesia Sentosa -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Semen Indonesia Sentosa/1.jpg" alt="Image">
@@ -327,7 +327,7 @@
                     </div>
 
             <!-- PT MAN -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT MAN/1.jpg" alt="Image">
@@ -347,7 +347,7 @@
                     </div>
 
             <!-- PT MAGNA -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT MAGNA/7.jpeg" alt="Image">
@@ -371,7 +371,7 @@
                     </div>
 
             <!-- PT Adi Jaya Beton -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Adi Jaya Beton/1.jpg" alt="Image">
@@ -390,7 +390,7 @@
                     </div>
 
             <!-- PT Aneka Dharma Persada -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT Aneka Dharma Persada/1.jpg" alt="Image">
@@ -411,7 +411,7 @@
                     </div>
 
             <!-- PT MAM -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/mixer/PT MAM/1.jpg" alt="Image">
