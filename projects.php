@@ -9,7 +9,7 @@
     <meta content="Construction Company Website Template" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/logo.ico" rel="icon">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -105,7 +105,7 @@
                     </div>
                 </div> -->
                 <div class="row portfolio-container">
-                    <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="img/project/project-1.png" alt="Image">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="img/sulo.png" alt="Image">

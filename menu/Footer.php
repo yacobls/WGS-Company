@@ -40,11 +40,11 @@
             <div class="col-md-6 col-lg-3">
                 <div class="footer-link">
                     <h2>Useful Pages</h2>
-                    <a href="../about.php">About Us</a>
-                    <a href="../contact.php">Contact Us</a>
+                    <a href="about.php">About Us</a>
+                    <a href="contact.php">Contact Us</a>
                     <!-- <a href="">Our Team</a> -->
-                    <a href="../projects.php">Projects</a>
-                    <a href="../template/Testimonial.php">Testimonial</a>
+                    <a href="products/mixer.php">Products</a>
+                    <a href="projects.php">Projects</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">

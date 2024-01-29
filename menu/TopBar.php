@@ -33,14 +33,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-5">
+                    <div class="col-4">
                         <div class="top-bar-item">
                             <div class="top-bar-icon">
                                 <i class="flaticon-send-mail"></i>
                             </div>
                             <div class="top-bar-text">
                                 <h3>Email Us</h3>
-                                <p>wira.marketing@gmail.com</p>
+                                <p>indowgs@gmail.com</p>
                             </div>
                         </div>
                     </div>

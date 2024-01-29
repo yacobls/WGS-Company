@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Builderz - Construction Company Website Template</title>
+    <title>WGS - Hiblow Products</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Construction Company Website Template" name="keywords">
     <meta content="Construction Company Website Template" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="../img/logo.ico" rel="icon">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -55,7 +55,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-4">
+                            <div class="col-3">
                                 <div class="top-bar-item">
                                     <div class="top-bar-icon">
                                         <i class="flaticon-call"></i>
@@ -149,7 +149,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s"><a href="mixer.php">Mixer</a></li>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.1s"><a href="mixer.php">Mixer</a></li>
                                     <!-- <div class="dropdown-menu"> -->
                                     <!-- <li data-filter="*" class="filter-active">All</li> -->
                                     <!-- <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div>
@@ -160,7 +160,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s" data-toggle="dropdown">Hiblow</li>
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s" data-toggle="dropdown">Hiblow</li>
                                     <div class="dropdown-menu">
                                         <div class="container">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
@@ -174,7 +174,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s"><a href="batching.php">Batching Plant</a></li>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.3s"><a href="batching.php">Batching</a></li>
                                     <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="batching.php">Batching Plant</a></div>
                                     </div> -->
@@ -186,7 +186,7 @@
                 <div class="row portfolio-container">
 
             <!-- PT Semen Indonesia Group -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Semen Indonesia Group/1.jpg" alt="Image">
@@ -206,7 +206,7 @@
                     </div>
 
             <!-- PT Semen Padang -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Semen Padang/1.jpg" alt="Image">
@@ -227,7 +227,7 @@
                     </div>
 
             <!-- PT Surya Buana Sentosa -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Surya Buana Sentosa/5.jpg" alt="Image">
@@ -253,7 +253,7 @@
                     </div>
 
             <!-- PT Sinar Indah Perkasa -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Sinar Indah Perkasa/1.jpg" alt="Image">
@@ -274,7 +274,7 @@
                     </div>
 
             <!-- PT MGR -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT MGR/1.jpg" alt="Image">
@@ -294,7 +294,7 @@
                     </div>
 
             <!-- PT Bintang Sejati Utama -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Bintang Sejati Utama/1.jpg" alt="Image">

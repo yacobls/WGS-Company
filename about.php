@@ -9,7 +9,7 @@
     <meta content="Construction Company Website Template" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/logo.ico" rel="icon">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -91,16 +91,11 @@
         <div class="about wow fadeInUp" data-wow-delay="0.1s">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-5 col-md-6">
-                        <div class="about-img">
-                            <img src="img/about.png" alt="Image">
-                        </div>
+                    <div class="section-header text-left">
+                        <h2 style="text-align: center">Wira Gulfindo Sarana</h2>
+                        <p style="text-align: center">62 Years Experience</p>
                     </div>
                     <div class="col-lg-7 col-md-6">
-                        <div class="section-header text-left">
-                            <p style="text-align: center">Welcome to Wira Gulfindo Sarana</p>
-                            <h2 style="text-align: center">62 Years Experience</h2>
-                        </div>
                         <div class="about-text">
                             <p style="text-align: justify">
                                 PT. Wira Gulfindo Sarana, was originally founded in 1962 with the name Wira Teknik, and started its business activity as steel tank fabrication and installation for Pertamina refineries throughout Indonesia.
@@ -112,6 +107,26 @@
                                 WGS developed its environmental division in 1992 when it became the first private company appointed by the Jakarta Municipal government to build and operate Waste Transfer Station, and has since continued to improve the division’s activities to reach the retail sector in supplying range of waste management equipment.
                             </p>
                             <!-- <a class="btn" href="">Learn More</a> -->
+                        </div>
+                        <div class="single">
+                            <div class="col-lg-12 col-md-6">
+                                <div class="single-bio wow fadeInUp">
+                                    <div class="single-bio-img">
+                                        <img src="img/founder.png" />
+                                    </div>
+                                    <div class="single-bio-text">
+                                        <h3>RACHMAT KERTADJAJA</h3>
+                                        <p>
+                                            FOUNDER OF PT. WIRA GULFINDO SARANA
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <div class="about-img">
+                            <?php include 'template/AboutCarousel.php'; ?>
                         </div>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
                         </div>
                         <div class="fact-text">
                             <h2 data-toggle="counter-up" style="color: #FFFFFF">109</h2>
-                            <p style="color: #FFFFFF">Expert Workers</p>
+                            <p style="color: #DA1107">Expert Workers</p>
                         </div>
                     </div>
                     <div class="col-6">
@@ -18,7 +18,7 @@
                         </div>
                         <div class="fact-text">
                             <h2 data-toggle="counter-up" style="color: #FFFFFF">485</h2>
-                            <p style="color: #FFFFFF">Happy Clients</p>
+                            <p style="color: #DA1107">Happy Clients</p>
                         </div>
                     </div>
                 </div>

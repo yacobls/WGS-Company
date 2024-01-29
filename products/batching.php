@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Builderz - Construction Company Website Template</title>
+    <title>WGS - Batching Plants Products</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Construction Company Website Template" name="keywords">
     <meta content="Construction Company Website Template" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="../img/logo.ico" rel="icon">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -55,7 +55,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-4">
+                            <div class="col-3">
                                 <div class="top-bar-item">
                                     <div class="top-bar-icon">
                                         <i class="flaticon-call"></i>
@@ -149,7 +149,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s"><a href="mixer.php">Mixer</a></li>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.1s"><a href="mixer.php">Mixer</a></li>
                                     <!-- <div class="dropdown-menu"> -->
                                     <!-- <li data-filter="*" class="filter-active">All</li> -->
                                     <!-- <div data-filter=".first" class="dropdown-item"><a href="mixer.php">Mixer</a></div> -->
@@ -160,7 +160,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.4s"><a href="hiblow.php">Hiblow</a></li>
+                                    <li href="#" class="portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.2s"><a href="hiblow.php">Hiblow</a></li>
                                     <!-- <div class="dropdown-menu">
                                         <div data-filter=".first" class="dropdown-item"><a href="hiblow.php">Hiblow</a></div>
                                     </div> -->
@@ -170,7 +170,7 @@
                         <div class="">
                             <ul id="portfolio-flters">
                                 <div class="nav-item dropdown">
-                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.6s" data-toggle="dropdown">Batching Plan</li>
+                                    <li href="#" class="nav-link dropdown-toggle portfolio-item first wow fadeInUp" data-filter=".first" data-wow-delay="0.3s" data-toggle="dropdown">Batching</li>
                                     <div class="dropdown-menu">
                                         <div class="container" style="margin-right: 146px">
                                             <div data-filter=".first" data-toggle="modal" data-target="#popupModal">
@@ -186,7 +186,7 @@
                 <div class="row portfolio-container">
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 3/1.jpg" alt="Image">
@@ -207,7 +207,7 @@
 
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 1/1.jpg" alt="Image">
@@ -228,7 +228,7 @@
                     </div>
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 2/1.jpg" alt="Image">
@@ -247,7 +247,7 @@
                     </div>
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 4/1.jpg" alt="Image">
@@ -265,7 +265,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 5/1.jpg" alt="Image">
@@ -284,7 +284,7 @@
                     </div>
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/batching/Batching 6/1.jpg" alt="Image">
