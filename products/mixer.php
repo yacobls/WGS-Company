@@ -88,7 +88,7 @@
         <div class="nav-bar">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                    <a href="#" class="navbar-brand">MENU</a>
+                    <a href="#" class="navbar-brand" style="color: #DA1107"><b>MENU</b></a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #DA1107">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -186,7 +186,7 @@
 
                 <div class="row portfolio-container">
 
-            <!-- PT UD Trucks -->
+                    <!-- PT UD Trucks -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -208,7 +208,7 @@
                         </div>
                     </div>
 
-            <!-- PT Semen Tiga Roda -->
+                    <!-- PT Semen Tiga Roda -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -227,7 +227,7 @@
                         </div>
                     </div>
 
-            <!-- PT Waskita -->
+                    <!-- PT Waskita -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -245,7 +245,7 @@
                         </div>
                     </div>
 
-            <!-- PT Holcim -->
+                    <!-- PT Holcim -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -267,7 +267,7 @@
                         </div>
                     </div>
 
-            <!-- PT Semen Merah Putih -->
+                    <!-- PT Semen Merah Putih -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -287,7 +287,7 @@
                         </div>
                     </div>
 
-            <!-- PT Anugrah Beton -->
+                    <!-- PT Anugrah Beton -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -306,7 +306,7 @@
                         </div>
                     </div>
 
-            <!-- PT Semen Indonesia Sentosa -->
+                    <!-- PT Semen Indonesia Sentosa -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -326,7 +326,7 @@
                         </div>
                     </div>
 
-            <!-- PT MAN -->
+                    <!-- PT MAN -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -346,7 +346,7 @@
                         </div>
                     </div>
 
-            <!-- PT MAGNA -->
+                    <!-- PT MAGNA -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -370,7 +370,7 @@
                         </div>
                     </div>
 
-            <!-- PT Adi Jaya Beton -->
+                    <!-- PT Adi Jaya Beton -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -389,7 +389,7 @@
                         </div>
                     </div>
 
-            <!-- PT Aneka Dharma Persada -->
+                    <!-- PT Aneka Dharma Persada -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -410,7 +410,7 @@
                         </div>
                     </div>
 
-            <!-- PT MAM -->
+                    <!-- PT MAM -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">

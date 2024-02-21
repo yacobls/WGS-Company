@@ -88,7 +88,7 @@
         <div class="nav-bar">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                    <a href="#" class="navbar-brand">MENU</a>
+                    <a href="#" class="navbar-brand" style="color: #DA1107"><b>MENU</b></a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #DA1107">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -185,7 +185,7 @@
                 </div>
                 <div class="row portfolio-container">
 
-            <!-- PT Semen Indonesia Group -->
+                    <!-- PT Semen Indonesia Group -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -205,7 +205,7 @@
                         </div>
                     </div>
 
-            <!-- PT Semen Padang -->
+                    <!-- PT Semen Padang -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -226,7 +226,7 @@
                         </div>
                     </div>
 
-            <!-- PT Surya Buana Sentosa -->
+                    <!-- PT Surya Buana Sentosa -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -252,7 +252,7 @@
                         </div>
                     </div>
 
-            <!-- PT Sinar Indah Perkasa -->
+                    <!-- PT Sinar Indah Perkasa -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -273,7 +273,7 @@
                         </div>
                     </div>
 
-            <!-- PT MGR -->
+                    <!-- PT MGR -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
@@ -293,14 +293,14 @@
                         </div>
                     </div>
 
-            <!-- PT Bintang Sejati Utama -->
+                    <!-- PT Bintang Sejati Utama -->
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeIn">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
                                 <img src="../img/hiblow/PT Bintang Sejati Utama/1.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
-                                    LIGHTWEIGHT, EFFICIENT AND VERSATILE
+                                        LIGHTWEIGHT, EFFICIENT AND VERSATILE
                                     </p>
                                 </div>
                             </div>

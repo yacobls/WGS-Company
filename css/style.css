@@ -2435,6 +2435,7 @@ a:focus {
     height: 100%;
 }
 
+/* UKURAN GAMBAR CAROUSEL */
 .carousel .carousel-item img {
     width: 100%;
     height: 100%;
@@ -2623,3 +2624,8 @@ a:focus {
         font-size: 18px;
     }
 }
+
+
+
+
+

@@ -21,7 +21,7 @@
                             <!-- <a href="https://freewebsitecode.com/"><i class="fab fa-twitter"></i></a>
                         <a href="https://facebook.com/freewebsitecode"><i class="fab fa-facebook-f"></i></a> -->
                             <!-- <a href="#"><i class="far fa-envelope"></i></a> -->
-                            <!--<a href="#"><i class="fab fa-instagram"></i></a>-->
+                            <a href="https://www.instagram.com/wgsindo.id/"><i class="fab fa-instagram"></i></a>
                             <!--<a href="#"><i class="fab fa-youtube"></i></a>-->
                         </div>
                     </div>
@@ -73,7 +73,7 @@
 <div class="container copyright">
     <div class="row">
         <div class="col-md-6">
-            <p style="color: #000000">Designed By<a href="#" style="color: #DA1107"> Wira Gulfindo Sarana | 2024</a> All Right Reserved.</p>
+            <p style="color: #000000">©<a href="#" style="color: #DA1107"> Wira Gulfindo Sarana | 2024,</a> All Right Reserved.</p>
         </div>
 
 
